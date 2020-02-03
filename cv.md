@@ -21,7 +21,7 @@ and improvement of skills
 -[x] SQL  
 -[x] Java Core
 -[x] PHP
--[x] OOP algorithms
+-[x] OOP and algorithms
 
 ##Language
 - English: level A2  
