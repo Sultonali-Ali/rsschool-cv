@@ -21,4 +21,14 @@ and improvement of skills
 -[x] SQL  
 -[x] Java Core
 -[x] PHP
--[x] OOP and algorithms
+-[x] OOP algorithms
+
+##Language
+- English: level A2  
+- Russian: Conversational level
+
+##Interests:
+* Programming  
+* Mathematics
+* Football
+* Read interest books
