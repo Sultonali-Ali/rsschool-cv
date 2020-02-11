@@ -118,6 +118,16 @@ body {
     background-image: url("img/icon-css.svg");
 }
 
+.skill-javascript {
+    background-image: url("img/icon-javascript.svg");
+    background-size: 32px 32px;
+}
+
+.skill-git {
+    background-image: url("img/icon-git.svg");
+    background-size: 32px 32px;
+}
+
 .level {
     margin: 4px 0 16px;
     padding: 0;
